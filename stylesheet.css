@@ -106,8 +106,7 @@
       font-family: 'Bebas Neue', cursive;
       color:green;
       background-image: linear-gradient(to right, #b0d6c1, transparent) ;
-      padding-left: 10px;
-      text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.457);
+      padding-left: 10px;      
     }
 
     p{
@@ -140,7 +139,8 @@
       color: white;
       margin:-15px -15px 0px -15px;
       padding:10px;
-      border-radius: 10px 10px 0px 0px;      
+      border-radius: 10px 10px 0px 0px;
+      font-family: 'Bebas Neue', cursive;      
     }
 
     footer {
